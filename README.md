@@ -95,7 +95,7 @@ A creative developer portfolio featuring:
 
 ---
 
-### 📊 [Amazon Electronics — Data Analytics Capstone](https://github.com/Aman739-code/E_G1_DVACapstone2) &nbsp; ![Stars](https://img.shields.io/github/stars/Aman739-code/E_G1_DVACapstone2?style=social) ![Forks](https://img.shields.io/github/forks/Aman739-code/E_G1_DVACapstone2?style=social)
+### 📊 [Amazon Electronics — Data Analytics Capstone](https://github.com/Aman739-code/E_G1_DVACapstone2) &nbsp; ![Stars](https://img.shields.io/github/stars/Aman739-code/E_G1_DVACapstone2?style=social)
 > **End-to-End Data Analytics Project**
 
 A comprehensive data analytics project covering:
@@ -182,7 +182,7 @@ An intelligent agentic system for grid optimization:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman739-code&theme=tokyonight)](https://github.com/Aman739-code)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman739-code&theme=tokyonight)](https://github.com/Aman739-code)
 
 </div>
 
