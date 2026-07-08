@@ -175,14 +175,7 @@ An intelligent agentic system for grid optimization:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman739-code&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman739-code&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman739-code&theme=tokyonight)](https://github.com/Aman739-code)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman739-code&theme=tokyonight&hide_border=true)](https://github.com/Aman739-code)
 
 </div>
 
