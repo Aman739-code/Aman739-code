@@ -36,7 +36,7 @@
 - 💻 Full-Stack Developer with experience in **React**, **Node.js**, **TypeScript**, and **MongoDB**
 - 🤖 Passionate about **Generative AI**, **LLMs**, **RAG pipelines**, and **agentic systems**
 - 📊 Experienced in **Data Analytics** — ETL pipelines, EDA, and interactive Tableau dashboards
-- 🏆 **380+ LeetCode problems solved** with a **contest rating of 1550+**
+- 🏆 **450+ LeetCode problems solved** with a **max contest rating of 1690.**
 - 🌍 Based in **Sonipat, Haryana, India**
 
 ---
