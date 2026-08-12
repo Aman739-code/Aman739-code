@@ -36,7 +36,7 @@
 - 💻 Full-Stack Developer with experience in **React**, **Node.js**, **TypeScript**, and **MongoDB**
 - 🤖 Passionate about **Generative AI**, **LLMs**, **RAG pipelines**, and **agentic systems**
 - 📊 Experienced in **Data Analytics** — ETL pipelines, EDA, and interactive Tableau dashboards
-- 🏆 **450+ LeetCode problems solved** with a **max contest rating of 1690.**
+- 🏆 **440+ LeetCode problems solved** with a **max contest rating of 1690.**
 - 🌍 Based in **Sonipat, Haryana, India**
 
 ---
@@ -164,7 +164,7 @@ An intelligent agentic system for grid optimization:
 
 | Platform | Stats |
 |----------|-------|
-| 🟨 **LeetCode** | 350+ Problems Solved &nbsp;•&nbsp; Contest Rating: **1550+** |
+| 🟨 **LeetCode** | 440+ Problems Solved &nbsp;•&nbsp; Contest Rating: **1550+** |
 | 🎓 **Newton School** | Active learner & problem solver |
 
 </div>
@@ -175,7 +175,7 @@ An intelligent agentic system for grid optimization:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman739-code&theme=tokyonight&hide_border=true)](https://github.com/Aman739-code)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aman739-code&theme=tokyonight&hide_border=true)](https://github.com/Aman739-code)
 
 </div>
 
